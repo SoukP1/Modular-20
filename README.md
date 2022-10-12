@@ -1,5 +1,6 @@
 # Modular-20
 
+
 Created a joint savings account smart contract using solidity and the Remix - Ethereum IDE. The compiled contract is compiled and deployed on the JavaScript VM and the contract functionalities were tested. 
 ---
 `setAccounts` function to define the authorized Ethereum address that will be able to withdraw funds from your contract.
